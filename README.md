@@ -10,11 +10,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code)
 
-## 📈 GitHub Stats
-
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDCentner&show_icons=true&theme=radical)
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johncentner-ingage&show_icons=true&theme=radical)
-
 ## 📫 How to reach me
 
 - Email: [jdcentner@gmail.com](mailto:jdcentner@gmail.com)
