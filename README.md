@@ -1,4 +1,4 @@
-# Hi there, I'm John Centner 👋
+# Hi there, I'm John Centner. I currently work as a Software Engineer at [Ingage](https://ingage.io) 👋
 
 ## 🔧 Technologies & Tools
 
@@ -12,7 +12,8 @@
 
 ## 📈 GitHub Stats
 
-![JD's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDCentner&show_icons=true&theme=radical)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JDCentner&show_icons=true&theme=radical)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johncentner-ingage&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 
